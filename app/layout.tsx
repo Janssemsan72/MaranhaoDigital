@@ -5,9 +5,12 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Dados – 4K Digital Gabriela Mota Goncalves",
+  title: "Dados – Maranhão Digital Juliana Maranhao Paiva de Sousa",
   description:
     "Soluções Estratégicas em Promoção, Conteúdo e Capacitação. Atuamos de forma integrada na promoção de vendas, produção de conteúdos editoriais e desenvolvimento profissional.",
+  other: {
+    "facebook-domain-verification": "oberowv6yfprwefqfz7oqq3rcr51ee",
+  },
 };
 
 export default function RootLayout({
