@@ -66,18 +66,16 @@ export default function DadosPage() {
         <div className="footer-inner">
           <div className="footer-left">
             <p className="footer-company">
-              <strong>
-                54.588.391 NAYARA CARNEIRO SALUSTIANO DA SILVA
-              </strong>
+              <strong>4K DIGITAL GABRIELA MOTA GONCALVES</strong>
             </p>
-            <p>CNPJ: 54.588.391/0001-36</p>
-            <p>Telefone: (85) 99245-8564</p>
+            <p>CNPJ: 64.068.311/0001-75</p>
+            <p>Telefone: (88) 99782-1402</p>
           </div>
           <div className="footer-right">
             <p>Endereço:</p>
-            <p>Rua 3, nº 371</p>
-            <p>Bairro Mondubim – Fortaleza/CE</p>
-            <p>CEP: 60.767-630</p>
+            <p>Rua Doutor Rui Maia, 479 – Sala 04</p>
+            <p>Bairro Centro – Quixadá/CE</p>
+            <p>CEP: 63.900-195</p>
           </div>
         </div>
       </footer>
