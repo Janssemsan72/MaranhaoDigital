@@ -66,10 +66,10 @@ export default function DadosPage() {
         <div className="footer-inner">
           <div className="footer-left">
             <p className="footer-company">
-              <strong>4K DIGITAL GABRIELA MOTA GONCALVES</strong>
+              <strong>PEDRO RIAN BERNARDO VIEIRA</strong>
             </p>
-            <p>CNPJ: 64.068.311/0001-75</p>
-            <p>Telefone: (88) 99782-1402</p>
+            <p>CNPJ: 64.023.539/0001-49</p>
+            <p>Telefone: (85) 98449-1239</p>
           </div>
           <div className="footer-right">
             <p>Endereço:</p>
