@@ -69,7 +69,7 @@ export default function DadosPage() {
               <strong>MARANHÃO DIGITAL JULIANA MARANHAO PAIVA DE SOUSA</strong>
             </p>
             <p>CNPJ: 62.917.751/0001-24</p>
-            <p>Telefone: (85) 98449-1239</p>
+            <p>Telefone: (85) 98820-9823</p>
           </div>
           <div className="footer-right">
             <p>Endereço:</p>
